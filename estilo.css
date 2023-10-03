@@ -1,0 +1,26 @@
+#navbar {
+    background-color: rgb(160, 160, 229);
+    display: flex;
+}
+
+#navbar ul {
+    display: flex;
+}
+
+#navbar ul li {
+    list-style-type: none;
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    padding: 10px;
+    list-style-type: none;
+}
+
+#cards {
+    display: flex;
+}
+
+#cards div {
+    padding: 20px;
+}
